@@ -3,3 +3,5 @@ Cooperated with Massachusetts Institute of Technology (MIT) students in a team o
 
 VR game demo: https://www.youtube.com/watch?v=Ms9bC0yaXKg
 
+https://github.com/kwlaial/MIT-Entrepreneurship-and-Maker-Skills-Integrator/assets/85923968/8d511846-c1ef-4278-a83a-9c132b507418
+
